@@ -79,4 +79,4 @@ Government doesn't have to be opaque. CivicOS is built on the belief that the in
 
 ---
 
-*Built with Go and React · Open source · Made for Africa*
+*Built with Go and React · Open source · Made from Africa*
